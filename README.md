@@ -486,6 +486,20 @@ npm run preview
 
 ---
 
+## ☕ 支持作者
+
+如果这个项目对你有帮助，欢迎请我喝杯咖啡~
+
+<div align="center">
+
+| <img src="sponsor/alipay.jpg" width="260" alt="支付宝"> | <img src="sponsor/wechat.jpg" width="260" alt="微信支付"> |
+|:---:|:---:|
+| **支付宝** | **微信支付** |
+
+</div>
+
+---
+
 ## 📄 License
 
 MIT License — 仅供学习交流使用
